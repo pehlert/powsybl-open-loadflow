@@ -20,11 +20,11 @@ import com.powsybl.openloadflow.equations.EquationVector;
 import com.powsybl.openloadflow.equations.SingleEquation;
 import com.powsybl.openloadflow.equations.TargetVector;
 import com.powsybl.openloadflow.equations.Vectors;
-import com.powsybl.openloadflow.network.EurostagFactory;
 import com.powsybl.openloadflow.network.FirstSlackBusSelector;
 import com.powsybl.openloadflow.network.LfNetwork;
 import com.powsybl.openloadflow.network.impl.Networks;
 import com.powsybl.openloadflow.network.util.UniformValueVoltageInitializer;
+import com.powsybl.openloadflow.test.networks.EurostagFactory;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

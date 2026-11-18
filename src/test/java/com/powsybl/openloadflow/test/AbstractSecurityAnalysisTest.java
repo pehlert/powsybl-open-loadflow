@@ -23,7 +23,7 @@ import com.powsybl.loadflow.LoadFlowParameters;
 import com.powsybl.loadflow.LoadFlowProvider;
 import com.powsybl.loadflow.LoadFlowResult;
 import com.powsybl.loadflow.LoadFlowRunParameters;
-import com.powsybl.openloadflow.network.NodeBreakerNetworkFactory;
+import com.powsybl.openloadflow.test.networks.NodeBreakerNetworkFactory;
 import com.powsybl.security.SecurityAnalysisParameters;
 import com.powsybl.security.SecurityAnalysisProvider;
 import com.powsybl.security.SecurityAnalysisReport;
